@@ -15,6 +15,7 @@ Este proyecto permite crear un video en formato MP4 a partir de una imagen fija 
 
 ```bash
 pip install moviepy librosa
+```
 
 
 ### Instrucciones para Ejecutar el Código

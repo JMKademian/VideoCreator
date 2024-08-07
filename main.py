@@ -28,7 +28,7 @@ def detectar_beats(audio_path):
     return beats
 
 # Rutas de los archivos
-imagen_path = r'D:\Users\josek\descargas\fotomolino.jpeg'  # Cambia esto a la ruta de tu imagen
+imagen_path = r'D:\Users\josek\imagenes\fotomolino.jpeg'  # Cambia esto a la ruta de tu imagen
 audio_path = r'D:\Users\josek\musica\SET\03gateway.mp3'    # Cambia esto a la ruta de tu audio
 output_path = r'D:\Users\josek\musica\SET\output_video.mp4'  # Cambia esto al nombre deseado para el archivo de salida
 
